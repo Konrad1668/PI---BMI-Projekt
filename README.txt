@@ -1,10 +1,9 @@
-Czym jest bmi
-BMI jest jednym z ważnych wskaźniów określających nasz stan fizyczny,
-ale niestety nie wystarczającym. Bardzo ważnym uzupełnieniem BMI jest 
-wskaźnik ilości tłuszczu brzusznego - zbyt duży może oznaczać niebezpieczną 
-otyłość brzuszną i to nawet przy prawidłowym BMI! Ponadto, paradoksalnie, 
-badania naukowe wskazują, że osoby z lekką nadwagą zwykle są zdrowsze
-i żyją dłużej od osób z tzw. "prawidłową wagą". Pojawiają się nawet głosy,
-że ustalony arbitralnie przez WHO próg nadwagi (25) jest zbyt niski.
-
-Konrad Rybak
+Zakresy wskaźnika BMI (kg/m^2)
+wygłodzenie - < 16.0
+wychudzenie - 16.0 - 16.99
+niedowaga - 17.0 - 18.49
+pożądana masa ciała - 18.5 - 24.99
+nadwaga - 25.0 - 29.99
+otyłość I stopnia - 30.0 - 34.99
+otyłośc II stopnia - 35.0 - 39.99
+otyłość III stopnia - ≥ 40.0
