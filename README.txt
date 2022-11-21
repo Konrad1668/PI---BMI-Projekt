@@ -7,3 +7,4 @@ badania naukowe wskazują, że osoby z lekką nadwagą zwykle są zdrowsze
 i żyją dłużej od osób z tzw. "prawidłową wagą". Pojawiają się nawet głosy,
 że ustalony arbitralnie przez WHO próg nadwagi (25) jest zbyt niski.
 
+Konrad Rybak
