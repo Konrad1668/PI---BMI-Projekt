@@ -1,2 +1,9 @@
 Czym jest bmi
-BMI jest jednym z wa¿nych wskaŸniów okreœlaj¹cych nasz stan fizyczny, ale niestety nie wystarczaj¹cym. Bardzo wa¿nym uzupe³nieniem BMI jest wskaŸnik iloœci t³uszczu brzusznego - zbyt du¿y mo¿e oznaczaæ niebezpieczn¹ oty³oœæ brzuszn¹ i to nawet przy prawid³owym BMI! Ponadto, paradoksalnie, badania naukowe wskazuj¹, ¿e osoby z lekk¹ nadwag¹ zwykle s¹ zdrowsze i ¿yj¹ d³u¿ej od osób z tzw. "prawid³ow¹ wag¹". Pojawiaj¹ siê nawet g³osy, ¿e ustalony arbitralnie przez WHO próg nadwagi (25) jest zbyt niski.
+BMI jest jednym z waÅ¼nych wskaÅºniÃ³w okreÅ›lajÄ…cych nasz stan fizyczny,
+ale niestety nie wystarczajÄ…cym. Bardzo waÅ¼nym uzupeÅ‚nieniem BMI jest 
+wskaÅºnik iloÅ›ci tÅ‚uszczu brzusznego - zbyt duÅ¼y moÅ¼e oznaczaÄ‡ niebezpiecznÄ… 
+otyÅ‚oÅ›Ä‡ brzusznÄ… i to nawet przy prawidÅ‚owym BMI! Ponadto, paradoksalnie, 
+badania naukowe wskazujÄ…, Å¼e osoby z lekkÄ… nadwagÄ… zwykle sÄ… zdrowsze
+i Å¼yjÄ… dÅ‚uÅ¼ej od osÃ³b z tzw. "prawidÅ‚owÄ… wagÄ…". PojawiajÄ… siÄ™ nawet gÅ‚osy,
+Å¼e ustalony arbitralnie przezÂ WHOÂ prÃ³g nadwagi (25) jest zbyt niski.
+
