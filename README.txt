@@ -1,10 +1,6 @@
-Czym jest bm
-BMI jest jednym z ważnych wskaźniów określających nasz stan fizyczny,
-ale niestety nie wystarczającym. Bardzo ważnym uzupełnieniem BMI jest 
-wskaźnik ilości tłuszczu brzusznego - zbyt duży może oznaczać niebezpieczną 
-otyłość brzuszną i to nawet przy prawidłowym BMI! Ponadto, paradoksalnie, 
-badania naukowe wskazują, że osoby z lekką nadwagą zwykle są zdrowsze
-i żyją dłużej od osób z tzw. "prawidłową wagą". Pojawiają się nawet głosy,
-że ustalony arbitralnie przez WHO próg nadwagi (25) jest zbyt niski.
-
-Konrad Rybak
+Związek między wielkością wskaźnika a ryzykiem chorób różni się między populacjami o różnych proporcjach ciała.
+I tak wśród Azjatów ryzyko cukrzycy jest znacząco wyższe przy niższych wartościach BMI.
+Zawartość tłuszczu w organizmie jest też wyższa u kobiet, niż u mężczyzn przy normalnej masie ciała.
+W przypadku kobiet tkanka tłuszczowa odpowiada za płodność i dojrzewanie płciowe.
+U obu płci obecność tkanki tłuszczowej jest ważna ponieważ m.in. chroni ona narządy wewnętrzne przed urazami,
+pełni funkcję termoizolacyjną, pozwala przetrwać dłuższe stany chorobowe tzw. paradoks otyłości.
