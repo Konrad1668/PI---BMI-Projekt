@@ -1,4 +1,4 @@
-Czym jest bmi
+Czym jest bm
 BMI jest jednym z ważnych wskaźniów określających nasz stan fizyczny,
 ale niestety nie wystarczającym. Bardzo ważnym uzupełnieniem BMI jest 
 wskaźnik ilości tłuszczu brzusznego - zbyt duży może oznaczać niebezpieczną 
