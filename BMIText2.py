@@ -18,9 +18,23 @@ for wiersz in wiersze:
     iloraz = float(wiersz[0])
     bmi = round(iloraz/kwadrat, 2)
 
-if bmi < 16:
-    
+    if bmi < 16:
+        status = "WYGLODZENIE"
+    elif 16 <= bmi <= 16.99:
+        status = "WYCHUDZENIE"
+    elif 17 <= bmi <= 18.49:
+        status = "NIEDOWAGA"
+    elif 18.50 <= bmi <= 24.99:
+        status = "NORMA"
+    elif 25 <= bmi <= 29.99:
+        status = "NADWAGA"
+    elif 30 <= bmi <= 34.99:
+        status = "OTYLOSC I STOPNIA"
+    elif 35 <= bmi <= 39.99:
+        status = "OTYLOSC II STOPNIA"
+    else:
+        status = "OTYLOSC III STOPNIA"
 
     file = open("bmi.txt", "a+")
-    file.write(f"{bmi}\n", n)
+    file.write(f"{float(wiersz[0])};{float(wiersz[1])};{bmi};{status}\n")
     file.close()
