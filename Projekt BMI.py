@@ -39,7 +39,7 @@ for wiersz in wiersze:
         status = "OTYLOSC III STOPNIA"
 
     file = open("bmi.txt", "a+")
-    file.write(f"{float(wiersz[1])};{float(wiersz[0])};{bmi};{status}\n")
+    file.write(f"{float(wiersz[0])};{float(wiersz[1])};{bmi};{status}\n")
     file.close()
 
 def BMI():
